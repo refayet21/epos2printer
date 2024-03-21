@@ -1,0 +1,2 @@
+export 'package:epos2printer/infrastructure/navigation/bindings/controllers/home.controller.binding.dart'; 
+export 'package:epos2printer/infrastructure/navigation/bindings/controllers/printpage.controller.binding.dart'; 
